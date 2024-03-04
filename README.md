@@ -10,6 +10,7 @@ What did you do very well when you found your client’s software security vulne
 	The importance of software security lies in the need to prevent or mitigate malicious attacks on sensitive data. This varies from customers personal information (debit/credit card or address) or company secrets (employee information or vendor information). A security breach on the systems could cause a backlash of trust from both customer and vendors. If security is put to the side or neglected throughout development; customers could potentially look elsewhere for financial planning competitors.
 
 What part of the vulnerability assessment was challenging or helpful to you? 
+
 	Performing the dependency check for the vulnerability assessment itself was easy to understand and starlight forward. The tricky part is how to address the vulnerabilities without editing to much code and introducing new vulnerabilities. Researching solutions of the vulnerabilities indicated patching and updating software regularly to avoid errors and mitigate malicious attacks. 
 
 How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use? 
