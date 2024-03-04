@@ -1,6 +1,6 @@
 # Practices-for-Secure-Software-Report
-
-Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address? 
+**
+Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address? **
 	Artemis Financial is a financial consulting company that develops financial plans for their customers. The plans range from checking, savings, retirement and investments. Artemis Financial aims to modernize their software and security for their customers. Taking a closer look at web-based applications,  Artemis Financial would like my development team to address all security vulnerabilities presented within their software.
 What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing? 
 	I was able to identity all known software vulnerabilities and researched how to patch or update the code to remedy the 16 vulnerabilities found. Updating code or applying patches helps to mitigate code from breaking and reduce code error. Software security protects the company as a whole and all connected associations such as customers or vendors. Comprised data from Artemis Financial can bleed over into associated transitions within the company such as vendor purchases or customer transactions.
